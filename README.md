@@ -111,7 +111,7 @@ Aplikasi BankCycle hadir sebagai jawaban atas tantangan tersebut. Dirancang untu
 <summary><b>1. Menu Login dan Register</b></summary>
 <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d2f921a1-7bba-419c-90b4-7f5b3d410680" alt="Menu Login Image" width="500px">
+  <img src="https://github.com/user-attachments/assets/1feff5ac-e404-4d8b-bf7d-387c4f6c1574" alt="Menu Login Image" width="500px">
   <p align="center"><b><em>1.1. Menu Login</em></b> pada menu ini admin ataupun user dapat melakukan login untuk masuk ke menu admin ataupun user</p>
 </div> <br>
 
