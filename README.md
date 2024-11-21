@@ -28,7 +28,7 @@
 Aplikasi BankCycle adalah aplikasi pengelolaan bank sampah Samarinda yang dirancang khusus untuk membantu masyarakat mengelola sampah rumah tangga secara terstruktur dan bermanfaat bagi lingkungan sekitar. Aplikasi ini mendukung kegiatan daur ulang dengan memfasilitasi pengumpulan sampah anorganik, mendorong warga untuk berpatisipasi dalam menjaga kebersihan dan kelestarian lingkungan:
 
 **1. Kebutuhan Sistem**
-- **`JDK 23`**: JDK mencakup kompilator (javac)m, Pustaka standar Java, dan alat-alat lain yang diperlukan untuk menulis, menjalankan, dan menguji program Java.
+- **`JDK 23`**: JDK mencakup kompilator (javac), Pustaka standar Java, dan alat-alat lain yang diperlukan untuk menulis, menjalankan, dan menguji program Java.
 - **`NetBeans IDE 22`**: NetBeans adalah lingkungan pengembangan terintegrasi (IDE) yang mendukung banyak bahasa pemrograman seperti Java, PHP, dan C++. Versi terbaru memiliki fitur-fitur untuk debugging, integrasi Git, dan pengembangan aplikasi web dan mobile
 - **`XAMPP`**: Diperlukan untuk menjalankan aplikasi yang memerlukan server web, database, dan bahasa pemrograman server-side. XAMPP mempermudah konfigurasi dan pengelolaan lingkungan pengembangan.
 - **`MySQL`**: Perangkat lunak manajemen basis data relasional yang menggunakan bahasa SQL. Sistem ini didesain agar data dapat diakses, diatur, dan dimanipulasi secara efisien. MySQL berfungsi untuk memastikan data tersimpan secara akurat dan dapat diambil kapan saja.
