@@ -18,7 +18,7 @@
 
 
 ## 👤 Profil Anggota
-**Kelompok 7**
+**Kelompok 2**
 
 | Muhammad Rofiif Taqiyyuddin Nabiil | Noor Lintang Bhaskara  | Muhammad Rizky Setiawan | Muhammad Aidil Mirza | Najla Nayla Putri |
 |------------------------------------|------------------------|-------------------------|----------------------|-------------------|
